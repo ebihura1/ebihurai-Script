@@ -1,0 +1,3 @@
+Key=https://discord.gg/paZRwy2zhN
+
+Discord Serverの特定のチャンネルに最新のKeyが貼られます
